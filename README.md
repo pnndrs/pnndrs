@@ -1,16 +1,28 @@
-## Hi there 👋
+# hey, i'm pnndrs 👋
 
-<!--
-**pnndrs/pnndrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build backend-heavy things
+fullstack when required.
 
-Here are some ideas to get you started:
+## experience
+- node.js / express (3+ years)
+- sql / mongodb (4+ years)
+- java (2+ years)
+- react + typescript (3+ years)
+- tailwind + modern frontend tooling (3+ years)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects (prev. / current)
+- cosmosmc  
+  - server development  
+  - 2023-2025
+- fyremc  
+  - server development  
+  - 2024-2025
+- mineblast  
+  - owner, developer  
+  - 2025-present
+- diaklink  
+  - project lead, developer  
+  - 2025-present
+
+## contact
+discord: @pnndrs (467628010577723392)
