@@ -10,19 +10,24 @@ fullstack when required.
 - react + typescript (3+ years)
 - tailwind + modern frontend tooling (3+ years)
 
-## projects (prev. / current)
-- cosmosmc  
-  - server development  
-  - 2023-2025
-- fyremc  
-  - server development  
-  - 2024-2025
-- mineblast  
-  - owner, developer  
-  - 2025-present
-- diaklink  
-  - project lead, developer  
-  - 2025-present
+## projects
+<details>
+  <summary>prev. / current</summary>
+
+  - cosmosmc  
+    - server development  
+    - 2023-2025
+  - fyremc  
+    - server development  
+    - 2024-2025
+  - mineblast  
+    - owner, developer  
+    - 2025-present
+  - diaklink  
+    - project lead, developer  
+    - 2025-present
+
+</details>
 
 ## contact
 discord: @pnndrs (467628010577723392)
