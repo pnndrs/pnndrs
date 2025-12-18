@@ -20,9 +20,6 @@ fullstack when required.
   - fyremc  
     - server development  
     - 2024-2025
-  - mineblast  
-    - owner, developer  
-    - 2025-present
   - diaklink  
     - project lead, developer  
     - 2025-present
